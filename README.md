@@ -6,7 +6,7 @@ Fancyss is a project providing tools to across the GFW on asuswrt/merlin/openwrt
 
 ## 机型/固件支持
 
-### [fancyss_hnd](https://github.com/hq450/fancyss/tree/master/fancyss_hnd)
+### [fancyss_hnd](https://github.com/guzhig/lycjym/tree/master/fancyss_hnd)
 **fancyss_hnd**离线安装包仅适用于asus/merlin koolshare hnd/axhnd平台机型改版固件（armV8架构，linux内核版本：4.1.27/4.1.51，bcm490X系列cpu）
 
 **fancyss_hnd**支持机型/固件：
@@ -22,13 +22,13 @@ Fancyss is a project providing tools to across the GFW on asuswrt/merlin/openwrt
 * GT-AC5300/RT-AC86U官该固件使用的是ROG皮肤，插件安装会自动识别机型并安装对应皮肤版本。
 
 #### 相关链接：
-* hnd机型的科学上网离线包：[https://github.com/hq450/fancyss_history_package/tree/master/fancyss_hnd](https://github.com/hq450/fancyss_history_package/tree/master/fancyss_hnd)
-* hnd机型的科学上网更新日志：https://github.com/hq450/fancyss/blob/master/fancyss_hnd/Changelog.txt
+* hnd机型的科学上网离线包：[https://github.com/guzhig/kexue/tree/master/fancyss_hnd](https://github.com/guzhig/kexue/tree/master/fancyss_hnd)
+* hnd机型的科学上网更新日志：https://github.com/guzhig/lycjym/blob/master/fancyss_hnd/Changelog.txt
 * hnd机型的固件下载地址：[http://koolshare.cn/forum-96-1.html](http://koolshare.cn/forum-96-1.html)
 
 ----
 
-### [fancyss_arm](https://github.com/hq450/fancyss/tree/master/fancyss_arm)
+### [fancyss_arm](https://github.com/guzhig/lycjym/tree/master/fancyss_arm)
 **fancyss_arm**离线安装包仅适用于merlin koolshare arm架构机型改版固件（armV7架构，linux内核版本：2.6.36.4，bcm470X系列cpu）
 
 **fancyss_arm**支持机型（需刷梅林koolshare改版固件）：
@@ -44,26 +44,26 @@ Fancyss is a project providing tools to across the GFW on asuswrt/merlin/openwrt
 
 #### 相关链接：
 
-* arm机型的科学上网离线包：[https://github.com/hq450/fancyss_history_package/tree/master/fancyss_arm](https://github.com/hq450/fancyss_history_package/tree/master/fancyss_arm)
-* arm机型的科学上网更新日志：https://github.com/hq450/fancyss/blob/master/fancyss_arm/Changelog.txt
+* arm机型的科学上网离线包：[https://github.com/guzhig/kexue/tree/master/fancyss_arm](https://github.com/guzhig/kexue/tree/master/fancyss_arm)
+* arm机型的科学上网更新日志：https://github.com/guzhig/lycjym/blob/master/fancyss_arm/Changelog.txt
 * arm机型的固件下载地址：[http://koolshare.cn/forum-96-1.html](http://koolshare.cn/forum-96-1.html)
 
 ----
 
-### [fancyss_mipsel](https://github.com/hq450/fancyss/tree/master/fancyss_mipsel)
+### [fancyss_mipsel](https://github.com/guzhig/lycjym/tree/master/fancyss_mipsel)
 适用于merlin koolshare mipsel架构机型的改版固件，由于mipsel架构老旧且性能较低，此架构机型的科学上网插件已经不再维护，最后的版本是3.0.4，此处作为仓库搬迁后的备份留存。
 
 **fancyss_mipsel**支持机型（需刷梅林koolshare改版固件）：
 * 华硕系列：`RT-N66U` `RT-AC66U（非RT-AC66U-B1）`
 
 #### 相关链接：
-* mipsel机型的科学上网离线包：[https://github.com/hq450/fancyss_history_package/tree/master/fancyss_mipsel](https://github.com/hq450/fancyss_history_package/tree/master/fancyss_mipsel)
+* mipsel机型的科学上网离线包：[https://github.com/guzhig/kexue/tree/master/fancyss_mipsel](https://github.com/guzhig/kexue/tree/master/fancyss_mipsel)
 * mipsel机型的固件下载地址：[http://koolshare.cn/forum-96-1.html](http://koolshare.cn/forum-96-1.html)
 
 ----
 
-### [fancyss_X64](https://github.com/hq450/fancyss/tree/master/fancyss_X64)
+### [fancyss_X64](https://github.com/guzhig/lycjym/tree/master/fancyss_X64)
 适用于koolshare OpenWRT/LEDE X64 带酷软的固件，由于该固件酷软下架了koolss插件，本项目将其收入。
 
 #### 相关链接：
-* koolshare OpenWRT/LEDE X64机型的科学上网离线包：[https://github.com/hq450/fancyss_history_package/tree/master/fancyss_X64](https://github.com/hq450/fancyss_history_package/tree/master/fancyss_X64)
+* koolshare OpenWRT/LEDE X64机型的科学上网离线包：[https://github.com/guzhig/kexue/tree/master/fancyss_X64](https://github.com/guzhig/kexue/tree/master/fancyss_X64)
